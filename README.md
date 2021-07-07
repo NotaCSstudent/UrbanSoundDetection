@@ -12,4 +12,4 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 print("Hello World");
 ```
 
-<img src="https://render.githubusercontent.com/render/math?math={\color{Green} \prod x^{2}}">
+<img src="https://render.githubusercontent.com/render/math?math={\color{Green} \prod x^{2}}" width = "500" height = "500">
