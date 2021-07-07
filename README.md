@@ -12,16 +12,4 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 print("Hello World");
 ```
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
-<script type="text/x-mathjax-config">
-   MathJax.Hub.Config({
-      tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]] },
-      "HTML-CSS": {
-        linebreaks: { automatic: true, width: "container" }          
-      }              
-   });
-
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
