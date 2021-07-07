@@ -8,6 +8,6 @@
 # $$ L_{eq}=10log_{10}(\frac{1}{T_{m}}\int_{Q}^{T_{m}}(\frac{P(t)}{P_{0}})^{2}dt) $$
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
- '''py
+ '''sh
  Hello World
  '''
