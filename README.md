@@ -12,4 +12,4 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 print("Hello World");
 ```
 
-<img src="https://render.githubusercontent.com/render/math?math={\color{Green}  L_{eq}=10log_{10}(\frac{1}{T_{m}}\int_{Q}^{T_{m}}(\frac{P(t)}{P_{0}})^{2}dt)" width = "500" height = "500">
+<img src="https://render.githubusercontent.com/render/math?math={\color{Green}  L_{eq}=10log_{10}(\frac{1}{T_{m}}\int_{Q}^{T_{m}}(\frac{P(t)}{P_{0}})^{2}dt)">
